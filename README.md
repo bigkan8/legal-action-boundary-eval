@@ -34,7 +34,7 @@ Across the current 12-scenario suite, run in both TypeScript and Python:
 - baseline systems executed **18 unjustified high-impact actions**
 - VerifiedX executed **0**
 - VerifiedX produced **0 false blocks** in this suite
-- surviving-goal completion improved from **41.7%** to **91.7%**
+- surviving-goal completion improved from **41.7%** to **100%**
 
 The raw results are in [RESULTS.md](RESULTS.md), with full artifacts in [artifacts/](artifacts).
 

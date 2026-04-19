@@ -68,7 +68,7 @@ Across both language lanes:
 - baseline executed `18` unjustified actions
 - VerifiedX executed `0`
 - VerifiedX false blocks in this suite: `0`
-- surviving-goal completion: `41.7% -> 91.7%`
+- surviving-goal completion: `41.7% -> 100%`
 
 ## Threats to validity
 

@@ -37,7 +37,7 @@ Across 12 scenarios, run in both TypeScript and Python:
 - baseline executed **18 unjustified high-impact actions**
 - VerifiedX executed **0**
 - VerifiedX false blocks in this suite: **0**
-- surviving-goal completion improved from **41.7%** to **91.7%**
+- surviving-goal completion improved from **41.7%** to **100%**
 
 ## Why that matters
 
@@ -74,4 +74,4 @@ This suite shows both major real-world patterns:
 
 ## Suggested one-line takeaway
 
-VerifiedX reduced executed unjustified legal workflow actions from 18 to 0 in this public proxy suite, while preserving legitimate workflow completion in 91.7% of the current protected runs.
+VerifiedX reduced executed unjustified legal workflow actions from 18 to 0 in this public proxy suite, while preserving legitimate workflow completion in 100% of the current protected runs.
