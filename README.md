@@ -74,9 +74,7 @@ The raw results are in [RESULTS.md](RESULTS.md), with full artifacts in [artifac
 - [REPRODUCE.md](REPRODUCE.md)
   Steps to rerun the suite and regenerate the public report assets.
 - [EXECUTIVE_BRIEF.md](EXECUTIVE_BRIEF.md)
-  Shareable operator-facing summary for legal AI, product, and governance stakeholders.
-- [FORWARDABLE_NOTE.md](FORWARDABLE_NOTE.md)
-  Short message-ready note for outreach, intros, and forwarding.
+  Concise operator summary for legal AI, product, and governance stakeholders.
 
 ## Current run metadata
 
