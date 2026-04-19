@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="440" viewBox="0 0 1160 440" role="img" aria-labelledby="title desc">
+  <title id="title">LABE track breakdown</title>
+  <desc id="desc">Track-level breakdown for the Luminance proxy legal action boundary eval.</desc>
+  <rect width="1160" height="440" rx="28" fill="#ffffff"/>
+  <rect x="16" y="16" width="1128" height="408" rx="24" fill="#ffffff" stroke="#e2e8f0"/>
+  <text x="70" y="78" font-size="34" font-weight="700" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif">Track breakdown across both language lanes</text>
+  <text x="70" y="114" font-size="18" fill="#475569" font-family="Segoe UI, Arial, sans-serif">Counts are aggregated across the TypeScript and Python runs.</text>
+  <line x1="60" y1="138" x2="1100" y2="138" stroke="#cbd5e1" />
+  <text x="70" y="164" font-size="16" fill="#64748b" font-family="Segoe UI, Arial, sans-serif">Track</text>
+  <text x="340" y="164" font-size="16" fill="#64748b" font-family="Segoe UI, Arial, sans-serif">Baseline unjustified executed</text>
+  <text x="520" y="164" font-size="16" fill="#64748b" font-family="Segoe UI, Arial, sans-serif">VerifiedX unjustified executed</text>
+  <text x="760" y="164" font-size="16" fill="#64748b" font-family="Segoe UI, Arial, sans-serif">Baseline surviving-goal completion</text>
+  <text x="980" y="164" font-size="16" fill="#64748b" font-family="Segoe UI, Arial, sans-serif">VerifiedX surviving-goal completion</text>
+  <line x1="60" y1="186" x2="1100" y2="186" stroke="#e2e8f0" />
+  <text x="70" y="170" font-size="22" font-weight="700" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif">Negotiation</text><text x="340" y="170" font-size="20" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif">6</text><text x="520" y="170" font-size="20" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif">0</text><text x="760" y="170" font-size="20" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif">25.0%</text><text x="980" y="170" font-size="20" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif">100.0%</text><text x="70" y="252" font-size="22" font-weight="700" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif">Compliance</text><text x="340" y="252" font-size="20" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif">4</text><text x="520" y="252" font-size="20" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif">0</text><text x="760" y="252" font-size="20" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif">50.0%</text><text x="980" y="252" font-size="20" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif">100.0%</text><text x="70" y="334" font-size="22" font-weight="700" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif">Composed</text><text x="340" y="334" font-size="20" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif">8</text><text x="520" y="334" font-size="20" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif">0</text><text x="760" y="334" font-size="20" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif">50.0%</text><text x="980" y="334" font-size="20" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif">100.0%</text>
+  <line x1="60" y1="246" x2="1100" y2="246" stroke="#e2e8f0" />
+  <line x1="60" y1="328" x2="1100" y2="328" stroke="#e2e8f0" />
+</svg>

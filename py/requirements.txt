@@ -1,0 +1,2 @@
+openai>=1.109.1
+verifiedx==0.1.8
